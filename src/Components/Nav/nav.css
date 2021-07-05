@@ -1,0 +1,6 @@
+.nav-container {
+  display: flex;
+  justify-content: space-evenly;
+  /* background-color: #4E46F5; */
+  height: 2.5rem;
+}

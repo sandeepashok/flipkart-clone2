@@ -1,0 +1,17 @@
+.cart-card-container{
+  margin: 1rem;
+}
+
+.cart-card{
+  display: flex;
+}
+
+.cartItem-img{
+  height: 250px;
+  width: 180px;
+}
+
+.counter{
+  display: flex;
+  margin: 0.5rem;
+}
